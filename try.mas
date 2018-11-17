@@ -1,0 +1,9 @@
+ ORG 100
+ LOAD X	
+ SUBT Y	
+ STORE Z	
+ OUTPUT 	
+
+X, DEC 2	
+Y, DEC 1	
+Z, DEC 0

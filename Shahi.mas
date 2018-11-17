@@ -1,0 +1,10 @@
+ ORG 100
+ LOAD X
+ADD Y
+ STORE Z
+LOAD Z
+ OUTPUT
+#write
+X, HEX 1
+Y, DEC 2
+Z, DEC 0
